@@ -1,0 +1,51 @@
+.navigation-1{
+  text-align: center;
+  color:blue;
+  margin:650px;
+  top:0px;
+}
+.video-description{
+  color:orange;
+  font-size: 20px;
+}
+
+.video-explanation{
+  display:block;
+  text-align: center;
+  font-size: 50px;
+}
+
+.navigation-2{
+  text-align: center;
+  color:blue;
+  margin:580px;
+  top:0px;
+}
+
+.navigation-3{
+  text-align: center;
+  color:blue;
+  margin:630px;
+  top:0px;
+}
+
+a {
+  font-size:30px;
+  right:0px;
+}
+
+.video-link{
+  font-size:20px;
+  color:purple;
+}
+
+.BTS-Hand-Sanitizer{
+  right:200px;
+}
+/* box code */
+/* div{
+  background-color:
+  border:20px;
+  padding:60px;
+  margin:30px;
+} */
