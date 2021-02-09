@@ -33,10 +33,9 @@ top:60px;
   text-align: center;
   position: relative;
   color:blue;
-  /* margin:630px; */
   left:700px;
   top:60px;
-  background-color: pink;
+  background-color: blue;
 }
 
 a {
@@ -50,22 +49,20 @@ a {
 }
 
 .About-Video-Header{
+  text-align: center;
   position:relative;
   left:500px;
   /* margin:550px; */
   top:10px;
 }
 
-.Clips{
-
-}
 
 .welcome-header{
   position: relative;
   text-align: center;
   font-size: 50px;
   /* left: 200px; */
-  /* background-color: white; */
+  background-color: green;
 }
 
 .video{
@@ -85,7 +82,13 @@ a {
   background-color: orange;
 }
 .Ryan-image{
-  width:500px;
+  width:900px;
+  left:00px;
+}
+
+.Tobbi-image{
+  position: relative;
+  left:300px;
 }
 
 .Covid-Picture{
@@ -121,7 +124,7 @@ a {
 }
 
 body{
-  background-color: orange;
+  background-color: yellow;
 }
 
 .contact-us-header{
@@ -129,6 +132,15 @@ body{
   left:300px;
 }
 
+.contact-info{
+position: relative;
+text-align: center;
+right:500px;
+}
+
+.Ryan-self-intro{
+  background-color: black;
+}
 
 /* box code */
 /* div{
