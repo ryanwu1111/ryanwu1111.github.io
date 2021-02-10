@@ -4,11 +4,13 @@
   color:blue;
   left:50px;
   top:60px;
-  background-color: pink;
+  background-color: lightyellow;
+  font-family: Arial ;
 }
 .video-description{
-  color:orange;
-  font-size: 20px;
+  text-align: center;
+  color:green;
+  font-size: 50px;
 }
 
 .video-explanation{
@@ -19,24 +21,22 @@
 
 .navigation-2{
   text-align: center;
-  /* position:relative; */
 position: relative;
 left:400px;
 top:60px;
   color:blue;
-  background-color: pink;
-  /* margin:580px; */
-  /* top:0px; */
+  background-color: lightyellow;
+  font-family: Arial ;
 }
 
 .navigation-3{
-  text-align: center;
+  text-align: right;
   position: relative;
   color:blue;
-  /* margin:630px; */
   left:700px;
   top:60px;
-  background-color: pink;
+  background-color: lightyellow;
+  font-family: Arial ;
 }
 
 a {
@@ -50,22 +50,21 @@ a {
 }
 
 .About-Video-Header{
+  text-align: center;
   position:relative;
-  left:500px;
   /* margin:550px; */
   top:10px;
+  background-color: lightyellow;
 }
 
-.Clips{
-
-}
 
 .welcome-header{
   position: relative;
   text-align: center;
   font-size: 50px;
-  /* left: 200px; */
-  /* background-color: white; */
+  font-style: italic;
+  color:pink;
+  background-color: white;
 }
 
 .video{
@@ -85,7 +84,24 @@ a {
   background-color: orange;
 }
 .Ryan-image{
-  width:500px;
+  position: relative;
+  width:600px;
+  left:400px;
+}
+
+.Tobbi-image{
+  position:relative;
+  left:500px;
+}
+
+.Tona-image{
+  position:relative;
+  left:550px;
+}
+
+.Shamma-image{
+  position: relative;
+  left:500px;
 }
 
 .Covid-Picture{
@@ -125,10 +141,59 @@ body{
 }
 
 .contact-us-header{
-  position:relative;
-  left:300px;
+  text-align: center;
+  /* left:300px; */
+  background-color: lightyellow;
+  /* width:300px; */
 }
 
+.contact-info{
+position: relative;
+text-align: center;
+}
+
+.Ryan-self-intro{
+  text-align: center;
+  background-color: black;
+}
+
+.Tona-self-intro{
+  text-align: center;
+  background-color: black;
+}
+
+.Tobbi-self-intro{
+  text-align: center;
+  background-color: black;
+}
+
+.About-Video{
+  background-color: lightgreen;
+  font-style: italic;
+}
+
+.About-Vid-1{
+  background-color: lightgreen;
+  font-style: italic;
+}
+
+.About-Vid-2{
+  background-color:lightgreen;
+  font-style: italic;
+}
+
+.member{
+  font-style: oblique;
+  text-align: center;
+  font-size: 50px;
+}
+
+.thumbs-up-down{
+  text-align: center;
+  color:blue;
+  font-size: 30px;
+  background-color: lightyellow;
+}
 
 /* box code */
 /* div{
