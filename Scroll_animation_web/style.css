@@ -1,0 +1,34 @@
+.header-text{
+  text-align:center;
+  background-color:inherit;
+  font-family: sans-serif;
+  color:darkorange;
+  font-size: 50px;
+}
+
+body{
+  background-color: #3d3950;
+}
+
+.space{
+  height:400px;
+  background-color: inherit;
+}
+
+#kid-picture{
+position:relative;
+top:10px;
+
+}
+
+.block{
+  height:150px;
+  /* border-style: solid; */
+  background-color: lightgreen;
+  text-align: center;
+  padding-top: 50px;
+  outline-color: brown;
+  font-family:serif;
+  font-size: 30px;
+  font-style: oblique;
+}
